@@ -1,1 +1,1 @@
-# devops-assessment
+Solutions for devops assessment
